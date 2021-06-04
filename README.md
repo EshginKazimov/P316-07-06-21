@@ -3,6 +3,9 @@
 Deadline:
 16-06-21 23:59
 
+Comment:
+Index.html page-da layout deishir, ona gore ondan bashqa istenilen Index page-ni goture bilersiz.
+
 Shertler:
 1. Butun data-lar database-dan gelir.
 2. Search her sehifeye uygun olsun - Course, Teacher, Blog, Event
